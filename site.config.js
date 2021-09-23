@@ -7,8 +7,8 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Personal Blog',
-  domain: 'https://www.notion.so/jinso/JinSo-7dcc9279c2604034be929fecfa4ae166',
+  name: 'Blog',
+  domain: 'https://jinso.notion.site/Blog-400049f41b484002ab82d9858169244b',
   author: 'JinSo',
 
   // open graph metadata (optional)
