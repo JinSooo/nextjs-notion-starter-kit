@@ -210,3 +210,7 @@
     animation: octocat-wave 560ms ease-in-out;
   }
 }
+
+.notion-hr {
+  margin: 6px 0;
+}
