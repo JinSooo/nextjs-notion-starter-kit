@@ -26,7 +26,7 @@ export const Footer: React.FC<{
 
   return (
     <footer className={styles.footer}>
-      <div className={styles.copyright} style={width:150px;}>Copyright 2021 {config.author}</div>
+      <div className={styles.copyright} style={{width:'150px'}}>Copyright 2021 {config.author}</div>
 
       {hasMounted ? (
         <div className={styles.settings}>
@@ -40,7 +40,7 @@ export const Footer: React.FC<{
         </div>
       ) : null}
 
-      <div className={styles.social} style={width:150px;}>
+      <div className={styles.social} style={{width:'150px'}}>
         {config.twitter && (
           <a
             className={styles.twitter}
