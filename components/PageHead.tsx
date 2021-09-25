@@ -23,7 +23,6 @@ export const PageHead: React.FC<types.PageProps> = ({ site }) => {
 
       <meta name='theme-color' content='#EB625A' />
       <meta property='og:type' content='website' />
-      <link rel="shortcut icon" href="/favicon.svg" />
     </Head>
   )
 }
