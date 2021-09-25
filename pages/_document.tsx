@@ -10,7 +10,7 @@ export default class MyDocument extends Document {
           <Head>
             <link rel='shortcut icon' href='/favicon.svg>
 
-            <link rel='manifest' href='/manifest.json' />
+            //<link rel='manifest' href='/manifest.json' />
           </Head>
 
           <body>
