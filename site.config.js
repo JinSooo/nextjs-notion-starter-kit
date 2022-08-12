@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '400049f41b484002ab82d9858169244b',
+  rootNotionPageId: '4e8cf1abd406422ab9f6c20909c88647',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Blog',
-  domain: 'https://jinso.notion.site/Blog-400049f41b484002ab82d9858169244b',
+  name: 'JinSo Serendipity',
+  domain: 'https://www.notion.so/jinso/JinSo-Serendipity-4e8cf1abd406422ab9f6c20909c88647',
   author: 'JinSo',
 
   // open graph metadata (optional)
